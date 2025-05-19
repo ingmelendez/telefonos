@@ -5,7 +5,7 @@
       "marca": "Apple",
       "modelo": "iPhone 13",
       "color": "Azul",
-      "almacenamiento": 128,
+      "almacenamiento": "128GB",
       "procesador": "A15 Bionic"
     },
     {
@@ -13,7 +13,7 @@
       "marca": "Samsung",
       "modelo": "Galaxy S22",
       "color": "Negro",
-      "almacenamiento": 256,
+      "almacenamiento": "256GB",
       "procesador": "Exynos 2200"
     },
     {
@@ -21,7 +21,7 @@
       "marca": "Google",
       "modelo": "Pixel 6",
       "color": "Blanco",
-      "almacenamiento": 128,
+      "almacenamiento": "128GB",
       "procesador": "Google Tensor"
     },
     {
@@ -29,7 +29,7 @@
       "marca": "OnePlus",
       "modelo": "OnePlus 10",
       "color": "Verde",
-      "almacenamiento": 256,
+      "almacenamiento": "256GB",
       "procesador": "Snapdragon 8cx Gen 3"
     },
     {
@@ -37,7 +37,7 @@
       "marca": "Xiaomi",
       "modelo": "Mi 12",
       "color": "Gris",
-      "almacenamiento": 128,
+      "almacenamiento": "128GB",
       "procesador": "Snapdragon 8cx Gen 3"
     },
     {
@@ -45,7 +45,7 @@
       "marca": "Huawei",
       "modelo": "P50 Pro",
       "color": "Rosa",
-      "almacenamiento": 256,
+      "almacenamiento": "256GB",
       "procesador": "Kirin 9000"
     },
     {
@@ -53,7 +53,7 @@
       "marca": "Sony",
       "modelo": "Xperia 5 III",
       "color": "Negro",
-      "almacenamiento": 128,
+      "almacenamiento": "128GB",
       "procesador": "Snapdragon 888"
     },
     {
@@ -61,7 +61,7 @@
       "marca": "LG",
       "modelo": "Velvet 2",
       "color": "Blanco",
-      "almacenamiento": 128,
+      "almacenamiento": "128GB",
       "procesador": "Snapdragon 765G"
     },
     {
@@ -69,7 +69,7 @@
       "marca": "Motorola",
       "modelo": "Moto G100",
       "color": "Azul",
-      "almacenamiento": 128,
+      "almacenamiento": "128GB",
       "procesador": "Snapdragon 870"
     },
     {
@@ -77,7 +77,7 @@
       "marca": "Nokia",
       "modelo": "Nokia 9.3 PureView",
       "color": "Verde",
-      "almacenamiento": 256,
+      "almacenamiento": "256GB",
       "procesador": "Snapdragon 888"
     }
   ]
