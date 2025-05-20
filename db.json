@@ -1,84 +1,84 @@
 {
-  "devices": [
+  "dispositivos": [
     {
       "id": 1,
-      "brand": "Apple",
-      "model": "iPhone 13",
+      "marca": "Apple",
+      "modelo": "iPhone 13",
       "color": "Azul",
-      "storage": "128GB",
-      "processor": "A15 Bionic"
+      "almacenamiento": "128GB",
+      "procesador": "A15 Bionic"
     },
     {
       "id": 2,
-      "brand": "Samsung",
-      "model": "Galaxy S22",
+      "marca": "Samsung",
+      "modelo": "Galaxy S22",
       "color": "Negro",
-      "storage": "256GB",
-      "processor": "Exynos 2200"
+      "almacenamiento": "256GB",
+      "procesador": "Exynos 2200"
     },
     {
       "id": 3,
-      "brand": "Google",
-      "model": "Pixel 6",
+      "marca": "Google",
+      "modelo": "Pixel 6",
       "color": "Blanco",
-      "storage": "128GB",
-      "processor": "Google Tensor"
+      "almacenamiento": "128GB",
+      "procesador": "Google Tensor"
     },
     {
       "id": 4,
-      "brand": "OnePlus",
-      "model": "OnePlus 10",
+      "marca": "OnePlus",
+      "modelo": "OnePlus 10",
       "color": "Verde",
-      "storage": "256GB",
-      "processor": "Snapdragon 8cx Gen 3"
+      "almacenamiento": "256GB",
+      "procesador": "Snapdragon 8cx Gen 3"
     },
     {
       "id": 5,
-      "brand": "Xiaomi",
-      "model": "Mi 12",
+      "marca": "Xiaomi",
+      "modelo": "Mi 12",
       "color": "Gris",
-      "storage": "128GB",
-      "processor": "Snapdragon 8cx Gen 3"
+      "almacenamiento": "128GB",
+      "procesador": "Snapdragon 8cx Gen 3"
     },
     {
       "id": 6,
-      "brand": "Huawei",
-      "model": "P50 Pro",
+      "marca": "Huawei",
+      "modelo": "P50 Pro",
       "color": "Rosa",
-      "storage": "256GB",
-      "processor": "Kirin 9000"
+      "almacenamiento": "256GB",
+      "procesador": "Kirin 9000"
     },
     {
       "id": 7,
-      "brand": "Sony",
-      "model": "Xperia 5 III",
+      "marca": "Sony",
+      "modelo": "Xperia 5 III",
       "color": "Negro",
-      "storage": "128GB",
-      "processor": "Snapdragon 888"
+      "almacenamiento": "128GB",
+      "procesador": "Snapdragon 888"
     },
     {
       "id": 8,
-      "brand": "LG",
-      "model": "Velvet 2",
+      "marca": "LG",
+      "modelo": "Velvet 2",
       "color": "Blanco",
-      "storage": "128GB",
-      "processor": "Snapdragon 765G"
+      "almacenamiento": "128GB",
+      "procesador": "Snapdragon 765G"
     },
     {
       "id": 9,
-      "brand": "Motorola",
-      "model": "Moto G100",
+      "marca": "Motorola",
+      "modelo": "Moto G100",
       "color": "Azul",
-      "storage": "128GB",
-      "processor": "Snapdragon 870"
+      "almacenamiento": "128GB",
+      "procesador": "Snapdragon 870"
     },
     {
       "id": 10,
-      "brand": "Nokia",
-      "model": "Nokia 9.3 PureView",
+      "marca": "Nokia",
+      "modelo": "Nokia 9.3 PureView",
       "color": "Verde",
-      "storage": "256GB",
-      "processor": "Snapdragon 888"
+      "almacenamiento": "256GB",
+      "procesador": "Snapdragon 888"
     }
   ]
 }
